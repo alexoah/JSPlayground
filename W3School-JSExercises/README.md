@@ -50,6 +50,24 @@ Total: 67 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods2) | [Q3](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods3) | [Q4](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods4) | [Q5](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods5) |
 | Answer | [A1](./JS-StringMethods/jsStringMethodsE1.js) | [A2](./JS-StringMethods/jsStringMethodsE2.js) | [A3](./JS-StringMethods/jsStringMethodsE3.js) | [A4](./JS-StringMethods/jsStringMethodsE4.js) | [A5](./JS-StringMethods/jsStringMethodsE5.js) |
 
+## [JavaScript Arrays](./JS-Arrays): 3 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_arrays.asp) | 1 | 2 | 3 |
+| :--- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_arrays1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_arrays2) | [Q3](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_arrays3) |
+| Answer | [A1](./JS-Arrays/jsArraysE1.js) | [A2](./JS-Arrays/jsArraysE2.js) | [A3](./JS-Arrays/jsArraysE3.js) |
+
+## [JavaScript Array Methods](./JS-ArrayMethods): 3 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_array_methods.asp) | 1 | 2 | 3 |
+| :--- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_array_methods1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_array_methods2) | [Q3](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_array_methods3) |
+| Answer | [A1](./JS-ArrayMethods/jsArrayMethodsE1.js) | [A2](./JS-ArrayMethods/jsArrayMethodsE2.js) | [A3](./JS-ArrayMethods/jsArrayMethodsE3.js) |
+
+## [JavaScript Array Sort](./JS-ArraySort): 1 exercise
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_array_sort.asp) | 1 |
+| :--- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_array_sort1) |
+| Answer | [A1](./JS-ArraySort/jsArraySortE1.js) |
+
   
 ***list will be added soon***
 
