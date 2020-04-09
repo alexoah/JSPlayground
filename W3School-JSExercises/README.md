@@ -32,6 +32,24 @@ Total: 67 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_objects1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_objects2) | [Q3](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_objects3) |
 | Answer | [A1](./JS-Objects/jsObjectsE1.js) | [A2](./JS-Objects/jsObjectsE2.js) | [A3](./JS-Objects/jsObjectsE3.js) |
 
+## [JavaScript Events](./JS-Events): 3 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_events.asp) | 1 | 2 | 3 |
+| :--- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_events1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_events2) | [Q3](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_events3) |
+| Answer | [A1](./JS-Events/jsEventsE1.js) | [A2](./JS-Events/jsEventsE2.js) | [A3](./JS-Events/jsEventsE3.js) |
+
+## [JavaScript Strings](./JS-Strings): 3 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_strings.asp) | 1 | 2 | 3 |
+| :--- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_strings1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_strings2) | [Q3](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_strings3) |
+| Answer | [A1](./JS-Strings/jsStringsE1.js) | [A2](./JS-Strings/jsStringsE2.js) | [A3](./JS-Strings/jsStringsE3.js) |
+
+## [JavaScript String Methods](./JS-StringMethods): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_string_methods.asp) | 1 | 2 | 3 | 4 | 5 |
+| :--- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods2) | [Q3](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods3) | [Q4](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods4) | [Q5](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods5) |
+| Answer | [A1](./JS-StringMethods/jsStringMethodsE1.js) | [A2](./JS-StringMethods/jsStringMethodsE2.js) | [A3](./JS-StringMethods/jsStringMethodsE3.js) | [A4](./JS-StringMethods/jsStringMethodsE4.js) | [A5](./JS-StringMethods/jsStringMethodsE5.js) |
+
   
 ***list will be added soon***
 
