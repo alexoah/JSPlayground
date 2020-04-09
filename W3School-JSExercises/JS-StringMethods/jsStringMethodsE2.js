@@ -1,5 +1,5 @@
 /**
- *	from JavaScript Methods: Exercise 2 ( https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods2 )
+ *	from JavaScript String Methods: Exercise 2 ( https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods2 )
  *
  *	question:
  *	Use the slice method to return the word "bananas".

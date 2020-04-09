@@ -1,5 +1,5 @@
 /**
- *	from JavaScript Methods: Exercise 5 ( https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods5 )
+ *	from JavaScript String Methods: Exercise 5 ( https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_string_methods5 )
  *
  *	question:
  *	Convert the value of txt to lower case.
