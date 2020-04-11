@@ -68,8 +68,38 @@ Total: 67 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_array_sort1) |
 | Answer | [A1](./JS-ArraySort/jsArraySortE1.js) |
 
+## [JavaScript Dates](./JS-Dates): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_dates.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dates1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dates2) | [Q3](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dates3) | [Q4](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dates4) |
+| Answer | [A1](./JS-Dates/jsDatesE1.js) | [A2](./JS-Dates/jsDatesE2.js) | [A3](./JS-Dates/jsDatesE3.js) | [A4](./JS-Dates/jsDatesE4.js) |
+
+## [JavaScript Math](./JS-Math): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_math.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_math1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_math2) | [Q3](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_math3) | [Q4](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_math4) |
+| Answer | [A1](./JS-Math/jsMathE1.js) | [A2](./JS-Math/jsMathE2.js) | [A3](./JS-Math/jsMathE3.js) | [A4](./JS-Math/jsMathE4.js) |
+
+## [JavaScript Comparisons](./JS-Comparisons): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_comparisons.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_comparisons1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_comparisons2) | [Q3](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_comparisons3) | [Q4](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_comparisons4) |
+| Answer | [A1](./JS-Comparisons/jsComparisonsE1.js) | [A2](./JS-Comparisons/jsComparisonsE2.js) | [A3](./JS-Comparisons/jsComparisonsE3.js) | [A4](./JS-Comparisons/jsComparisonsE4.js) |
+
+## [JavaScript Conditions](./JS-Conditions): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_if_else.asp) | 1 | 2 |
+| :--- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_conditions1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_conditions2) |
+| Answer | [A1](./JS-Conditions/jsConditionsE1.js) | [A2](./JS-Conditions/jsConditionsE2.js) |
+
+## [JavaScript Switch](./JS-Switch): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_switch.asp) | 1 | 2 |
+| :--- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_switch1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_switch2) |
+| Answer | [A1](./JS-Switch/jsSwitchE1.js) | [A2](./JS-Switch/jsSwitchE2.js) |
+
   
-***list will be added soon***
+***more will be added soon***
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
