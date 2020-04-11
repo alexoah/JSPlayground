@@ -98,6 +98,24 @@ Total: 67 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_switch1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_switch2) |
 | Answer | [A1](./JS-Switch/jsSwitchE1.js) | [A2](./JS-Switch/jsSwitchE2.js) |
 
+## [JavaScript For Loops](./JS-ForLoops): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_loop_for.asp) | 1 | 2 |
+| :--- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_loops1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_loops2) |
+| Answer | [A1](./JS-ForLoops/jsForLoopsE1.js) | [A2](./JS-ForLoops/jsForLoopsE2.js) |
+
+## [JavaScript While Loops](./JS-WhileLoops): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_loop_while.asp) | 1 | 2 |
+| :--- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_loop_while1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_loop_while2) |
+| Answer | [A1](./JS-WhileLoops/jsWhileLoopsE1.js) | [A2](./JS-WhileLoops/jsWhileLoopsE2.js) |
+
+## [JavaScript Break Loops](./JS-BreakLoops): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_break.asp) | 1 | 2 |
+| :--- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_break1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_break2) |
+| Answer | [A1](./JS-BreakLoops/jsBreakLoopsE1.js) | [A2](./JS-BreakLoops/jsBreakLoopsE2.js) |
+
   
 ***more will be added soon***
 
