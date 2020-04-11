@@ -116,8 +116,11 @@ Total: 67 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_break1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_break2) |
 | Answer | [A1](./JS-BreakLoops/jsBreakLoopsE1.js) | [A2](./JS-BreakLoops/jsBreakLoopsE2.js) |
 
-  
-***more will be added soon***
+## [JavaScript HTML DOM](./JS-HTML_DOM): 9 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/js/js_htmldom_html.asp) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| :--- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html1) | [Q2](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html2) | [Q3](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html3) | [Q4](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html4) | [Q5](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html5) | [Q6](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html6) | [Q7](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html7) | [Q8](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html8) | [Q9](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html9) |
+| Answer | [A1](./JS-HTML_DOM/jsHTML_DOME1.html) | [A2](./JS-HTML_DOM/jsHTML_DOME2.html) | [A3](./JS-HTML_DOM/jsHTML_DOME3.html) | [A4](./JS-HTML_DOM/jsHTML_DOME4.html) | [A5](./JS-HTML_DOM/jsHTML_DOME5.html) | [A6](./JS-HTML_DOM/jsHTML_DOME6.html) | [A7](./JS-HTML_DOM/jsHTML_DOME7.html) | [A8](./JS-HTML_DOM/jsHTML_DOME8.html) | [A9](./JS-HTML_DOM/jsHTML_DOME9.html) |
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
